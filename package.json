@@ -3,7 +3,7 @@
   "description": "Match & splice a tokenized HTML stream with css selectors. Like html-select but maintained.",
   "homepage": "https://documentup.com/Kikobeats/html-select2",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
     "name": "Kiko Beats",
@@ -73,8 +73,7 @@
     "node": ">= 8"
   },
   "files": [
-    "index.js",
-    "lib"
+    "src"
   ],
   "scripts": {
     "clean": "rm -rf node_modules",

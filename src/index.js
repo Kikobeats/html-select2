@@ -4,10 +4,10 @@ const through = require('through2')
 const inherits = require('inherits')
 const Splicer = require('stream-splicer')
 
-const selfClosing = require('./lib/self_closing.js')
-const getTag = require('./lib/get_tag.js')
-const Match = require('./lib/match.js')
-const lang = require('./lib/lang.js')
+const selfClosing = require('./self_closing.js')
+const getTag = require('./get_tag.js')
+const Match = require('./match.js')
+const lang = require('./lang.js')
 
 const nextTick =
   typeof setImmediate !== 'undefined' ? setImmediate : process.nextTick
