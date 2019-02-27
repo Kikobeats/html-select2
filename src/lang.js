@@ -1,6 +1,6 @@
 'use strict'
 
-const cssauron = require('cssauron')
+const cssauron = require('cssauron-noeval')
 const getTag = require('./get_tag.js')
 const getAttr = require('./get_attr.js')
 

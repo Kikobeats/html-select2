@@ -46,7 +46,7 @@
     "stream"
   ],
   "dependencies": {
-    "cssauron": "1.4.0",
+    "cssauron-noeval": "1.4.0",
     "duplexer2": "0.0.2",
     "inherits": "2.0.3",
     "readable-stream": "2.3.6",
