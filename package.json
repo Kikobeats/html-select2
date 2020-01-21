@@ -47,7 +47,7 @@
   ],
   "dependencies": {
     "cssauron-noeval": "1.4.6",
-    "duplexer2": "0.0.2",
+    "duplexer2": "0.1.4",
     "inherits": "2.0.4",
     "readable-stream": "3.5.0",
     "split": "1.0.1",
